@@ -38,7 +38,7 @@
 //#define FAST_LOOP_LOG
 //#define DISABLE_DYNAMIC_ADC
 //#define INDIVIDUAL_MODES
-//#define SPEEDTHROTTLE
+#define SPEEDTHROTTLE
 
 //-------------------------------Settings for battery bars on Kunteng display
 #define BATTERY_LEVEL_1 323000
@@ -100,7 +100,7 @@
 
 //----------------------------- Display setting
 
-#define DISPLAY_TYPE DISPLAY_TYPE_DEBUG
+#define DISPLAY_TYPE DISPLAY_TYPE_BAFANG
 
 //------------------------------Autodetect setting
 #define AUTODETECT 0
